@@ -123,4 +123,4 @@ The solana.com website is managed and maintained by the Solana Foundation. See
 - [`apps/media/AGENTS.md`](./apps/media/AGENTS.md) — Blog/Media
 - [`apps/templates/AGENTS.md`](./apps/templates/AGENTS.md) — Templates
 - [`apps/accelerate/AGENTS.md`](./apps/accelerate/AGENTS.md) — Accelerate
-- [`apps/breakpoint/AGENTS.md`](./apps/breakpoint/AGENTS.md) — Breakpoint
+- [`apps/breakpoint/AGENTS.md`](./apps/breakpoint/AGENTS.md
